@@ -1,0 +1,6 @@
+2025-05-23 18:15:49,867 - [MainProcess] - HMASD-Main - INFO - 多进程日志系统已初始化: 文件级别=info, 控制台级别=error
+2025-05-23 18:15:49,867 - [MainProcess] - HMASD-Main - INFO - 日志文件: logs\hmasd_training_20250523_181547.log
+2025-05-23 18:15:49,900 - [MainProcess] - HMASD-Main - INFO - 检测到GPU可用，使用CUDA
+2025-05-23 18:15:49,900 - [MainProcess] - HMASD-Main - INFO - 使用 32 个并行训练环境和 4 个并行评估环境
+2025-05-23 18:15:49,900 - [MainProcess] - HMASD-Main - INFO - 基础种子: 1747995349
+2025-05-23 18:15:49,901 - [MainProcess] - HMASD-Main - INFO - 创建 SubprocVecEnv...

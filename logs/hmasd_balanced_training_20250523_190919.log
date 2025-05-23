@@ -1,0 +1,2 @@
+2025-05-23 19:09:20,842 - [MainProcess] - Balance-HMASD-Main - INFO - 多进程日志系统已初始化: 文件级别=info, 控制台级别=error
+2025-05-23 19:09:20,842 - [MainProcess] - Balance-HMASD-Main - INFO - 日志文件: logs\hmasd_balanced_training_20250523_190919.log

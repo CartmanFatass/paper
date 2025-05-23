@@ -1,0 +1,12 @@
+2025-05-23 19:11:06,146 - [MainProcess] - Balance-HMASD-Main - INFO - 多进程日志系统已初始化: 文件级别=info, 控制台级别=error
+2025-05-23 19:11:06,153 - [MainProcess] - Balance-HMASD-Main - INFO - 日志文件: logs\hmasd_balanced_training_20250523_191104.log
+2025-05-23 19:11:06,169 - [MainProcess] - Balance-HMASD-Main - INFO - 检测到GPU可用，使用CUDA
+2025-05-23 19:11:06,169 - [MainProcess] - Balance-HMASD-Main - INFO - 使用 32 个并行训练环境和 4 个并行评估环境
+2025-05-23 19:11:06,169 - [MainProcess] - Balance-HMASD-Main - INFO - 基础种子: 1747998666
+2025-05-23 19:11:06,169 - [MainProcess] - Balance-HMASD-Main - INFO - 创建 SubprocVecEnv...
+2025-05-23 19:11:17,599 - [MainProcess] - Balance-HMASD-Main - INFO - SubprocVecEnv 已创建。
+2025-05-23 19:11:17,599 - [MainProcess] - Balance-HMASD-Main - INFO - 从环境更新智能体数量: n_agents=5
+2025-05-23 19:11:17,599 - [MainProcess] - Balance-HMASD-Main - INFO - 更新配置: state_dim=116, obs_dim=124
+2025-05-23 19:11:17,599 - [MainProcess] - HMASD - INFO - 使用设备: cuda
+2025-05-23 19:11:18,652 - [MainProcess] - Balance-HMASD-Main - INFO - 应用高层经验平衡修复...
+2025-05-23 19:11:19,161 - [MainProcess] - Balance-HMASD-Main - INFO - 高层经验平衡修复已应用，开始训练...

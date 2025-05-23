@@ -1,0 +1,2 @@
+2025-05-24 00:48:32,816 - [MainProcess] - Test-Training - INFO - 开始快速测试训练流程
+2025-05-24 00:48:32,816 - [MainProcess] - Test-Training - INFO - 使用测试配置：总步数=10000, 评估间隔=1000

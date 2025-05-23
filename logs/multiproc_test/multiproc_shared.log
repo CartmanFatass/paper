@@ -1,0 +1,126 @@
+2025-05-22 22:26:51,766 - [MainProcess] - Main - INFO - 多进程日志测试开始
+2025-05-22 22:26:51,766 - [MainProcess] - Main - INFO - 将创建 5 个工作进程
+2025-05-22 22:26:51,783 - [MainProcess] - Main - INFO - 工作进程 0 已启动，PID: 21028
+2025-05-22 22:26:51,788 - [MainProcess] - Main - INFO - 工作进程 1 已启动，PID: 12676
+2025-05-22 22:26:51,790 - [MainProcess] - Main - INFO - 工作进程 2 已启动，PID: 32676
+2025-05-22 22:26:51,792 - [MainProcess] - Main - INFO - 工作进程 3 已启动，PID: 43452
+2025-05-22 22:26:51,797 - [MainProcess] - Main - INFO - 工作进程 4 已启动，PID: 43300
+2025-05-22 22:26:53,350 - [MainProcess] - Main - INFO - 工作进程 0 已完成
+2025-05-22 22:26:53,372 - [MainProcess] - Main - INFO - 工作进程 1 已完成
+2025-05-22 22:26:53,372 - [MainProcess] - Main - INFO - 工作进程 2 已完成
+2025-05-22 22:26:53,372 - [MainProcess] - Main - INFO - 工作进程 3 已完成
+2025-05-22 22:26:53,372 - [MainProcess] - Main - INFO - 工作进程 4 已完成
+2025-05-22 22:26:53,372 - [MainProcess] - Main - INFO - 所有工作进程已完成
+2025-05-22 22:26:53,372 - [MainProcess] - Main - INFO - 多进程日志测试结束
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_20250522_221833.log
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 日志文件大小: 1520 字节
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_20250522_222130.log
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 日志文件大小: 3252 字节
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_20250522_222309.log
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 日志文件大小: 1840 字节
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_shared.log
+2025-05-22 22:26:53,373 - [MainProcess] - Main - INFO - 日志文件大小: 809 字节
+2025-05-22 22:29:18,759 - [MainProcess] - Main - INFO - 多进程日志测试开始
+2025-05-22 22:29:18,760 - [MainProcess] - Main - INFO - 将创建 5 个工作进程
+2025-05-22 22:29:18,762 - [MainProcess] - Main - INFO - 工作进程 0 已启动，PID: 47784
+2025-05-22 22:29:18,764 - [MainProcess] - Main - INFO - 工作进程 1 已启动，PID: 51552
+2025-05-22 22:29:18,768 - [MainProcess] - Main - INFO - 工作进程 2 已启动，PID: 55620
+2025-05-22 22:29:18,772 - [MainProcess] - Main - INFO - 工作进程 3 已启动，PID: 35072
+2025-05-22 22:29:18,773 - [MainProcess] - Main - INFO - 工作进程 4 已启动，PID: 44368
+2025-05-22 22:29:20,359 - [MainProcess] - Main - INFO - 工作进程 0 已完成
+2025-05-22 22:29:20,359 - [MainProcess] - Main - INFO - 工作进程 1 已完成
+2025-05-22 22:29:20,359 - [MainProcess] - Main - INFO - 工作进程 2 已完成
+2025-05-22 22:29:20,359 - [MainProcess] - Main - INFO - 工作进程 3 已完成
+2025-05-22 22:29:20,370 - [MainProcess] - Main - INFO - 工作进程 4 已完成
+2025-05-22 22:29:20,370 - [MainProcess] - Main - INFO - 所有工作进程已完成
+2025-05-22 22:29:20,370 - [MainProcess] - Main - INFO - 多进程日志测试结束
+2025-05-22 22:29:20,370 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_shared.log
+2025-05-22 22:29:20,370 - [MainProcess] - Main - INFO - 日志文件大小: 3231 字节
+2025-05-22 22:36:22,395 - [MainProcess] - Main - INFO - 多进程日志测试开始
+2025-05-22 22:36:22,395 - [MainProcess] - Main - INFO - 将创建 5 个工作进程
+2025-05-22 22:36:22,395 - [MainProcess] - Main - INFO - 工作进程 0 已启动，PID: 49436
+2025-05-22 22:36:22,402 - [MainProcess] - Main - INFO - 工作进程 1 已启动，PID: 2864
+2025-05-22 22:36:22,404 - [MainProcess] - Main - INFO - 工作进程 2 已启动，PID: 48868
+2025-05-22 22:36:22,408 - [MainProcess] - Main - INFO - 工作进程 3 已启动，PID: 51036
+2025-05-22 22:36:22,410 - [MainProcess] - Main - INFO - 工作进程 4 已启动，PID: 4048
+2025-05-22 22:36:23,994 - [MainProcess] - Main - INFO - 工作进程 0 已完成
+2025-05-22 22:36:23,994 - [MainProcess] - Main - INFO - 工作进程 1 已完成
+2025-05-22 22:36:23,994 - [MainProcess] - Main - INFO - 工作进程 2 已完成
+2025-05-22 22:36:23,994 - [MainProcess] - Main - INFO - 工作进程 3 已完成
+2025-05-22 22:36:23,994 - [MainProcess] - Main - INFO - 工作进程 4 已完成
+2025-05-22 22:36:23,998 - [MainProcess] - Main - INFO - 所有工作进程已完成
+2025-05-22 22:36:23,998 - [MainProcess] - Main - INFO - 多进程日志测试结束
+2025-05-22 22:36:23,998 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_shared.log
+2025-05-22 22:36:23,998 - [MainProcess] - Main - INFO - 日志文件大小: 4497 字节
+2025-05-22 22:39:56,339 - [MainProcess] - Main - INFO - 多进程日志测试开始
+2025-05-22 22:39:56,339 - [MainProcess] - Main - INFO - 将创建 5 个工作进程
+2025-05-22 22:39:56,339 - [MainProcess] - Main - INFO - 工作进程 0 已启动，PID: 36836
+2025-05-22 22:39:56,350 - [MainProcess] - Main - INFO - 工作进程 1 已启动，PID: 44628
+2025-05-22 22:39:56,353 - [MainProcess] - Main - INFO - 工作进程 2 已启动，PID: 21756
+2025-05-22 22:39:56,353 - [MainProcess] - Main - INFO - 工作进程 3 已启动，PID: 47904
+2025-05-22 22:39:56,359 - [MainProcess] - Main - INFO - 工作进程 4 已启动，PID: 45484
+2025-05-22 22:39:57,913 - [MainProcess] - Main - INFO - 工作进程 0 已完成
+2025-05-22 22:39:57,913 - [MainProcess] - Main - INFO - 工作进程 1 已完成
+2025-05-22 22:39:57,913 - [MainProcess] - Main - INFO - 工作进程 2 已完成
+2025-05-22 22:39:57,950 - [MainProcess] - Main - INFO - 工作进程 3 已完成
+2025-05-22 22:39:57,950 - [MainProcess] - Main - INFO - 工作进程 4 已完成
+2025-05-22 22:39:57,950 - [MainProcess] - Main - INFO - 所有工作进程已完成
+2025-05-22 22:39:57,950 - [MainProcess] - Main - INFO - 多进程日志测试结束
+2025-05-22 22:39:57,950 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_shared.log
+2025-05-22 22:39:57,950 - [MainProcess] - Main - INFO - 日志文件大小: 6014 字节
+2025-05-22 22:54:41,532 - [MainProcess] - Main - INFO - 多进程日志测试开始
+2025-05-22 22:54:41,533 - [MainProcess] - Main - INFO - 将创建 5 个工作进程
+2025-05-22 22:54:41,535 - [MainProcess] - Main - INFO - 工作进程 0 已启动，PID: 472
+2025-05-22 22:54:41,538 - [MainProcess] - Main - INFO - 工作进程 1 已启动，PID: 39984
+2025-05-22 22:54:41,540 - [MainProcess] - Main - INFO - 工作进程 2 已启动，PID: 3752
+2025-05-22 22:54:41,542 - [MainProcess] - Main - INFO - 工作进程 3 已启动，PID: 51276
+2025-05-22 22:54:41,546 - [MainProcess] - Main - INFO - 工作进程 4 已启动，PID: 55884
+2025-05-22 22:54:41,608 - [Process-2] - Worker0 - DEBUG - 子进程 0: 这是一条调试日志
+2025-05-22 22:54:41,608 - [Process-2] - Worker0 - INFO - 子进程 0: 这是一条信息日志
+2025-05-22 22:54:41,608 - [Process-3] - Worker1 - DEBUG - 子进程 1: 这是一条调试日志
+2025-05-22 22:54:41,608 - [Process-2] - Worker0 - WARNING - 子进程 0: 这是一条警告日志
+2025-05-22 22:54:41,608 - [Process-3] - Worker1 - INFO - 子进程 1: 这是一条信息日志
+2025-05-22 22:54:41,608 - [Process-2] - Worker0 - ERROR - 子进程 0: 这是一条错误日志
+2025-05-22 22:54:41,608 - [Process-3] - Worker1 - WARNING - 子进程 1: 这是一条警告日志
+2025-05-22 22:54:41,608 - [Process-2] - Worker0 - INFO - 子进程 0: 循环 1/3
+2025-05-22 22:54:41,608 - [Process-3] - Worker1 - ERROR - 子进程 1: 这是一条错误日志
+2025-05-22 22:54:41,608 - [Process-3] - Worker1 - INFO - 子进程 1: 循环 1/3
+2025-05-22 22:54:41,613 - [Process-4] - Worker2 - DEBUG - 子进程 2: 这是一条调试日志
+2025-05-22 22:54:41,613 - [Process-4] - Worker2 - INFO - 子进程 2: 这是一条信息日志
+2025-05-22 22:54:41,613 - [Process-4] - Worker2 - WARNING - 子进程 2: 这是一条警告日志
+2025-05-22 22:54:41,613 - [Process-4] - Worker2 - ERROR - 子进程 2: 这是一条错误日志
+2025-05-22 22:54:41,614 - [Process-4] - Worker2 - INFO - 子进程 2: 循环 1/3
+2025-05-22 22:54:41,614 - [Process-5] - Worker3 - DEBUG - 子进程 3: 这是一条调试日志
+2025-05-22 22:54:41,614 - [Process-5] - Worker3 - INFO - 子进程 3: 这是一条信息日志
+2025-05-22 22:54:41,614 - [Process-5] - Worker3 - WARNING - 子进程 3: 这是一条警告日志
+2025-05-22 22:54:41,614 - [Process-5] - Worker3 - ERROR - 子进程 3: 这是一条错误日志
+2025-05-22 22:54:41,614 - [Process-5] - Worker3 - INFO - 子进程 3: 循环 1/3
+2025-05-22 22:54:41,620 - [Process-6] - Worker4 - DEBUG - 子进程 4: 这是一条调试日志
+2025-05-22 22:54:41,620 - [Process-6] - Worker4 - INFO - 子进程 4: 这是一条信息日志
+2025-05-22 22:54:41,620 - [Process-6] - Worker4 - WARNING - 子进程 4: 这是一条警告日志
+2025-05-22 22:54:41,620 - [Process-6] - Worker4 - ERROR - 子进程 4: 这是一条错误日志
+2025-05-22 22:54:41,620 - [Process-6] - Worker4 - INFO - 子进程 4: 循环 1/3
+2025-05-22 22:54:42,112 - [Process-2] - Worker0 - INFO - 子进程 0: 循环 2/3
+2025-05-22 22:54:42,112 - [Process-3] - Worker1 - INFO - 子进程 1: 循环 2/3
+2025-05-22 22:54:42,128 - [Process-4] - Worker2 - INFO - 子进程 2: 循环 2/3
+2025-05-22 22:54:42,128 - [Process-6] - Worker4 - INFO - 子进程 4: 循环 2/3
+2025-05-22 22:54:42,128 - [Process-5] - Worker3 - INFO - 子进程 3: 循环 2/3
+2025-05-22 22:54:42,613 - [Process-2] - Worker0 - INFO - 子进程 0: 循环 3/3
+2025-05-22 22:54:42,613 - [Process-3] - Worker1 - INFO - 子进程 1: 循环 3/3
+2025-05-22 22:54:42,629 - [Process-6] - Worker4 - INFO - 子进程 4: 循环 3/3
+2025-05-22 22:54:42,629 - [Process-5] - Worker3 - INFO - 子进程 3: 循环 3/3
+2025-05-22 22:54:42,629 - [Process-4] - Worker2 - INFO - 子进程 2: 循环 3/3
+2025-05-22 22:54:43,115 - [Process-3] - Worker1 - INFO - 子进程 1: 工作完成
+2025-05-22 22:54:43,115 - [Process-2] - Worker0 - INFO - 子进程 0: 工作完成
+2025-05-22 22:54:43,124 - [MainProcess] - Main - INFO - 工作进程 0 已完成
+2025-05-22 22:54:43,124 - [MainProcess] - Main - INFO - 工作进程 1 已完成
+2025-05-22 22:54:43,131 - [Process-5] - Worker3 - INFO - 子进程 3: 工作完成
+2025-05-22 22:54:43,131 - [Process-4] - Worker2 - INFO - 子进程 2: 工作完成
+2025-05-22 22:54:43,131 - [Process-6] - Worker4 - INFO - 子进程 4: 工作完成
+2025-05-22 22:54:43,140 - [MainProcess] - Main - INFO - 工作进程 2 已完成
+2025-05-22 22:54:43,140 - [MainProcess] - Main - INFO - 工作进程 3 已完成
+2025-05-22 22:54:43,140 - [MainProcess] - Main - INFO - 工作进程 4 已完成
+2025-05-22 22:54:43,140 - [MainProcess] - Main - INFO - 所有工作进程已完成
+2025-05-22 22:54:43,140 - [MainProcess] - Main - INFO - 多进程日志测试结束
+2025-05-22 22:54:43,140 - [MainProcess] - Main - INFO - 生成的日志文件: logs/multiproc_test\multiproc_shared.log
+2025-05-22 22:54:43,140 - [MainProcess] - Main - INFO - 日志文件大小: 10959 字节
